@@ -1,0 +1,3 @@
+# heartprediction
+
+### The main goal of the project is to analyze a medical patient’s dataset which contain the various health related data and predict any upcoming heart diseases using ML (Machine Learning) and classification technique. After collecting the data, we preprocessed the data and performing an exploratory data analysis. After that we identified the most effective data that can closely related to various heart diseases. After graphical analysis and finding the correlating, we train various machine learning model such as naive bayes, KNN, Decision tree, Logistic Regression, Support Vector Machine. After training the model and test the result. At last accuracy and performance are analyzed.
